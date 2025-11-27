@@ -1,16 +1,21 @@
+import { PenTool, BookOpen, Search } from 'lucide-react';
+
 export default function Solution() {
-  const valueProps = [
+  const useCases = [
     {
-      title: 'Compare Side-by-Side',
-      description: 'See how different AIs respond to the same question in one view.',
+      icon: PenTool,
+      title: 'Write Better',
+      description: 'Compare writing styles from different AIs. See how Claude drafts an email vs. how Gemini makes it creative. Pick or combine the best parts.',
     },
     {
-      title: '"Auto" Select',
-      description: 'Not sure which AI to use? Let Zuvu automatically route your question to the best model for the job.',
+      icon: BookOpen,
+      title: 'Learn Anything',
+      description: 'Learning code or history? Different AIs explain concepts differently. Compare teaching styles to find what clicks for you.',
     },
     {
-      title: 'Keep Your Context',
-      description: 'Your conversation flows naturally. No copy-pasting. No starting over.',
+      icon: Search,
+      title: 'Research & Get Answers',
+      description: 'Get accurate answers, verified by multiple AIs. Compare sources from Perplexity and analysis from Claude to find the truth.',
     },
   ];
 
@@ -19,32 +24,35 @@ export default function Solution() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-[#0a0a0a] mb-4">
-            One Chat. Multiple AIs. Zero Friction.
+            Built for Real Work
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Zuvu brings ChatGPT, Claude, Gemini, and other top models into a single workspace.
+            Whether you're creating, learning, or researching, Zuvu adapts to how you work.
           </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
-          {valueProps.map((prop, index) => (
-            <div
-              key={index}
-              className="group p-8 rounded-2xl bg-gradient-to-br from-[#f5f5f5] to-white hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-[#020CFE]/20"
-            >
-              <div className="flex items-start gap-4 mb-4">
-                <div className="w-8 h-8 bg-[#020CFE] rounded-lg flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform duration-300">
-                  <span className="text-white font-bold text-lg">{index + 1}</span>
+          {useCases.map((useCase, index) => {
+            const Icon = useCase.icon;
+            return (
+              <div
+                key={index}
+                className="group p-8 rounded-2xl bg-gradient-to-br from-[#f5f5f5] to-white hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-[#020CFE]/20"
+              >
+                <div className="flex items-start gap-4 mb-4">
+                  <div className="w-12 h-12 bg-[#020CFE] bg-opacity-10 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform duration-300">
+                    <Icon className="text-[#020CFE]" size={24} />
+                  </div>
                 </div>
-                <h3 className="text-2xl font-bold text-[#0a0a0a]">
-                  {prop.title}
+                <h3 className="text-2xl font-bold text-[#0a0a0a] mb-3">
+                  {useCase.title}
                 </h3>
+                <p className="text-gray-600 leading-relaxed text-lg">
+                  {useCase.description}
+                </p>
               </div>
-              <p className="text-gray-600 leading-relaxed text-lg">
-                {prop.description}
-              </p>
-            </div>
-          ))}
+            );
+          })}
         </div>
 
         <div className="mt-16 text-center">
