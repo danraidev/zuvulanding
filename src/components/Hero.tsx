@@ -87,9 +87,11 @@ export default function Hero({ onTryFree }: HeroProps) {
                 </div>
 
                 <div className="flex justify-end">
-                  <div className="bg-[#60a5fa] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm">
+                  <div className="bg-[#60a5fa] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm leading-relaxed">
                     <span className="text-xs font-semibold opacity-75 block mb-1">CMO</span>
-                    @Claude Whip up a landing page
+                    <div>@Grok Suggest a viral angle</div>
+                    <div>@Claude Whip up a landing page</div>
+                    <div>@Gemini what problems are we solving?</div>
                   </div>
                 </div>
 
@@ -108,9 +110,30 @@ export default function Hero({ onTryFree }: HeroProps) {
                     <div className="w-8 h-8 rounded-full bg-gradient-to-br from-green-500 to-green-600 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
                       C
                     </div>
-                    <div className="bg-gray-50 rounded-2xl rounded-tl-none px-4 py-3 max-w-sm text-sm text-gray-700">
-                      <div className="font-semibold text-gray-900 mb-1">Claude:</div>
-                      Target B2B teams who struggle with AI tool fragmentation...
+                    <div className="bg-gray-50 rounded-2xl rounded-tl-none px-4 py-3 max-w-sm text-sm text-gray-700 relative group">
+                      <div className="font-semibold text-gray-900 mb-2">Claude:</div>
+                      <div className="bg-[#1e1e1e] text-gray-300 rounded-lg p-3 font-mono text-xs overflow-x-auto relative">
+                        <button
+                          className="absolute top-2 right-2 p-1.5 bg-gray-700 hover:bg-gray-600 rounded transition-colors opacity-0 group-hover:opacity-100"
+                          onClick={() => {
+                            const code = `<!DOCTYPE html>\n<html>\n<head>\n  <title>Zuvu - AI Agents made Easy</title>\n  <style>\n    body { font-family: Arial; text-align: center; padding: 50px; background: #f4f4f4; }`;
+                            navigator.clipboard.writeText(code);
+                          }}
+                          title="Copy code"
+                        >
+                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                          </svg>
+                        </button>
+                        <div className="text-[10px] leading-relaxed">
+                          <div>&lt;!DOCTYPE html&gt;</div>
+                          <div>&lt;html&gt;</div>
+                          <div>&lt;head&gt;</div>
+                          <div className="pl-2">&lt;title&gt;Zuvu - AI Agents made Easy&lt;/title&gt;</div>
+                          <div className="pl-2">&lt;style&gt;</div>
+                          <div className="pl-4 text-gray-400">body &#123; font-family: Arial; text-align: center; padding: 50px; background: #f4f4f4; &#125;</div>
+                        </div>
+                      </div>
                     </div>
                   </div>
 
