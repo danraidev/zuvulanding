@@ -20,7 +20,7 @@ export default function Header({ onTryFree }: HeaderProps) {
 
   const navItems = [
     { label: 'Why Zuvu.ai?', href: '#why-zuvu' },
-    { label: 'Compare', href: '#compare' },
+    { label: 'Features', href: '#compare' },
     { label: 'How It Works', href: '#how-it-works' },
     { label: 'FAQ', href: '#faq' },
   ];
