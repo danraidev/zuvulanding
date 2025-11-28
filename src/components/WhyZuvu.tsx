@@ -3,17 +3,17 @@ export default function WhyZuvu() {
     {
       emoji: '🔄',
       title: 'Constant Switching',
-      description: 'Copying the same question over and over between ChatGPT, Claude, and Perplexity.',
+      description: 'Copying the same question over and over between ChatGPT, Gemini, and Grok. Never knowing which models has the best answer.',
     },
     {
       emoji: '💬',
       title: 'Lost Context',
-      description: 'Each AI starts from zero. Your conversation history doesn\'t carry over.',
+      description: 'Each AI chat starts from zero. Your conversation history with other models doesn\'t carry over.',
     },
     {
       emoji: '⏰',
       title: 'Wasted Time',
-      description: 'Managing multiple tabs and subscriptions. It\'s exhausting.',
+      description: 'Managing multiple tabs, user interfaces and subscriptions. It\'s exhausting.',
     },
   ];
 

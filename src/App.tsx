@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
-import Problem from './components/Problem';
 import WhyZuvu from './components/WhyZuvu';
 import Solution from './components/Solution';
 import Compare from './components/Compare';
@@ -24,7 +23,6 @@ function App() {
           <Header onTryFree={() => setShowChat(true)} />
           <main>
             <Hero onTryFree={() => setShowChat(true)} />
-            <Problem />
             <WhyZuvu />
             <Solution />
             <Compare />

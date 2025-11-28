@@ -1,21 +1,26 @@
-import { PenTool, BookOpen, Search } from 'lucide-react';
+import { Upload, Settings, ImagePlus, Layers } from 'lucide-react';
 
 export default function Solution() {
-  const useCases = [
+  const features = [
     {
-      icon: PenTool,
-      title: 'Write Better',
-      description: 'Compare writing styles from different AIs. See how Claude drafts an email vs. how Gemini makes it creative. Pick or combine the best parts.',
+      icon: Upload,
+      title: 'Upload & Analyze Your Files.',
+      description: 'Drop in PDFs, CSVs, and other documents, then ask questions directly against them. Zuvu keeps your files in context so you can summarize, extract insights, or validate claims without copy-paste.',
     },
     {
-      icon: BookOpen,
-      title: 'Learn Anything',
-      description: 'Learning code or history? Different AIs explain concepts differently. Compare teaching styles to find what clicks for you.',
+      icon: Settings,
+      title: 'Chat Rules for Your Tone & Business Context.',
+      description: 'Set Rules once per chat so every model stays aligned with your style and facts — e.g. your company voice, audience, preferred structure, or key business details. Less re-explaining, more consistent output.',
     },
     {
-      icon: Search,
-      title: 'Research & Get Answers',
-      description: 'Get accurate answers, verified by multiple AIs. Compare sources from Perplexity and analysis from Claude to find the truth.',
+      icon: ImagePlus,
+      title: 'Create & Edit Images on the Go.',
+      description: 'Generate images right inside chat: press Create Image, describe what you want, and Zuvu makes it. Want changes? Edit the image in the same thread and keep iterating with your text and files in context.',
+    },
+    {
+      icon: Layers,
+      title: 'All in One Multimodal Workspace.',
+      description: 'Text, web, documents, and images — all in the same conversation window, with your human team mates or friends and AIs working together.',
     },
   ];
 
@@ -24,16 +29,16 @@ export default function Solution() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-[#0a0a0a] mb-4">
-            Built for Real Work
+            Everything in One Place
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Whether you're creating, learning, or researching, Zuvu adapts to how you work.
+            Get better answers together. Integrate with Notion.
           </p>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
-          {useCases.map((useCase, index) => {
-            const Icon = useCase.icon;
+        <div className="grid md:grid-cols-2 gap-8">
+          {features.map((feature, index) => {
+            const Icon = feature.icon;
             return (
               <div
                 key={index}
@@ -44,11 +49,11 @@ export default function Solution() {
                     <Icon className="text-[#020CFE]" size={24} />
                   </div>
                 </div>
-                <h3 className="text-2xl font-bold text-[#0a0a0a] mb-3">
-                  {useCase.title}
+                <h3 className="text-xl font-bold text-[#0a0a0a] mb-3">
+                  {feature.title}
                 </h3>
-                <p className="text-gray-600 leading-relaxed text-lg">
-                  {useCase.description}
+                <p className="text-gray-600 leading-relaxed">
+                  {feature.description}
                 </p>
               </div>
             );

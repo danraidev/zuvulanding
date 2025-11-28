@@ -16,8 +16,8 @@ export default function HowItWorks() {
     },
     {
       icon: CheckCircle2,
-      title: 'Compare answers side-by-side.',
-      description: 'Review all responses side-by-side, compare insights, and pick the best answer for your needs.',
+      title: 'Build upon AI outputs.',
+      description: 'Iterate with different AIs, refine responses, and get better answers by having them collaborate and build on each other\'s insights.',
       step: '03',
     },
   ];
