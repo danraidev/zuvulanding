@@ -90,16 +90,295 @@ export default function Terms() {
             </p>
             <p>
               <strong>Pricing plan</strong> – means a set of terms and conditions established by the Company that define the scope, procedure, and specific features of using the Service.
-            </p> USE OF THE SERVICE The Consumer gains access to the Service through the web interface after completing the basic authorization procedures defined by these Terms. Some functions may be limited or unavailable without creating an Account. The use of the Service is permitted only within its intended purpose, namely for entering, generating, analyzing, and processing Information. The Consumer undertakes not to violate the technical or functional stability of the Service and not to interfere with other Consumers’ access. The Company reserves the right to modify, update, or discontinue the operation of certain functions or the Service as a whole, as well as to introduce temporary technical or administrative restrictions to ensure the safe and stable operation of the Service. 3.1. Registration and Account To gain full access to all components and extended functionality of the Service, the Consumer must create an Account. Registration is possible via a Google account, MetaMask, or using an email address with subsequent verification. During registration, the Consumer must provide accurate, complete, and up-to-date information. The Company may also request the creation of a password and confirmation of agreement with the terms of this Agreement. After successful registration, the Consumer is granted access to use AI chats, where they can select any available AI, interact with it, submit requests, and create or generate Information in accordance with the functionality of the Service. The Consumer is responsible for maintaining the confidentiality of their account information, including the password, and must take appropriate measures to prevent unauthorized access to their Account. In the event of suspected or detected unauthorized access, the Consumer must immediately notify the Company through the specified contact channels. All actions performed through the Consumer’s Account are considered to have been carried out by the Consumer personally, unless proven otherwise. The Company is not responsible for the consequences of actions performed through the Account in case the Consumer violates confidentiality requirements. The Consumer undertakes to timely update the information provided during registration so that it remains accurate and up-to-date. In the event of inaccurate or outdated information being detected, the Company reserves the right to suspend or limit access to the Service, after providing prior notice to the Consumer. 3.2. Restrictions on the use of the Service The use of the Service for any activity that contradicts applicable law, including fraud, data manipulation, or other illegal activity, is strictly prohibited. In particular, providing false information, using another person’s personal data, misleading the Company, as well as using the Service to obtain improper benefits or circumvent the provisions of these Terms, is not allowed. The Consumer does not have the right to submit requests or perform actions on behalf of other persons without their explicit consent, nor to carry out any actions through the Service that may cause harm to the Company or other Consumers. A violation of the Terms is considered to be the unauthorized use, copying, modification, or distribution of Information or results protected by intellectual property rights. Interference with the operation of the Service is prohibited, including vulnerability testing, use of automated data collection tools, or attempts to bypass technical restrictions. Such actions may result in the immediate termination of access to the Service. In the event of detected violations, the Company reserves the right to apply technical or administrative measures, as well as to provide information to competent authorities in accordance with applicable law. 3.3. Access restrictions and Account deletion The Company reserves the right to temporarily restrict or completely terminate a Consumer’s access to the Service in cases of: ● violation of the provisions of these Terms, the Privacy Notice, or other Service rules; ● abuse of the Service’s functionality or attempts to interfere with its operation; ● providing false, misleading, or inaccurate information; ● using the Service for illegal activities; ● performing actions that may cause harm to the Company; ● receiving justified complaints or official requests from government authorities or judicial bodies. In the case of systematic or significant violations, as well as when risks to the security of the Service arise, the Company has the right, without prior notice, to temporarily block, deactivate, or permanently delete the Consumer’s Account along with all related information. This includes cases of fraud, manipulation, attempts to bypass technical restrictions, or if the Consumer is located in a jurisdiction where the use of the Service violates international sanctions or regulatory requirements. The Consumer will be notified of the access restriction or Account deletion with a general reason, unless otherwise required by applicable law or the requirements of competent authorities. The Consumer also has the right to initiate deletion of their Account independently by contacting customer support. After confirmation of such a request, access to the Service and data associated with the Account will be terminated, except in cases where the Company is required to retain certain information in accordance with law or internal security policies. Temporary restriction or permanent termination of access to the Service does not release the Consumer from responsibility for actions performed prior to that moment and does not constitute grounds for a refund under the Pricing Plan, unless otherwise provided by applicable law or these Terms.
-PROVISION OF SERVICES The Service provides Consumers with the ability to interact with artificial intelligence language models available within the range defined by the Company. The Consumer may select a model from the provided list, ask questions, search for information, and receive answers in a chat format. Requests are processed automatically using artificial intelligence algorithms that analyze the content of the input data and generate the most relevant results. Through an intuitive web interface, the Consumer can conveniently conduct multiple dialogues, view the history of previous conversations, and return to them at any time. If necessary, the Consumer may upload documents for analysis, summarization, or information retrieval using the selected model. Such files are processed exclusively within the functionality of the Service, and their use is limited to the purpose of the request, without transferring data to third parties. To improve response accuracy, the Service employs an intelligent Router system that automatically determines which of the available models is best suited for a specific request. It analyzes the context, content, and purpose of the query, then directs it to the most appropriate model. In the case of complex tasks, the Router may involve multiple models simultaneously, compare their results, and generate the most accurate response. The Company reserves the right to modify the scope or set of features available within the Service, as well as to introduce new services, restrictions, or technical solutions. Such changes may be implemented without prior approval from the Consumer but will be subsequently communicated through the Service interface or other communication channels. The Service is intended for individual use. Any form of automated or mass access, including the use of bots, external scripts, or programs for data collection or processing, is prohibited. Such actions are considered a violation of the terms of use and may result in restricted or suspended access. The functionality of the Service is designed with principles of confidentiality, technical security, and compliance with international data processing standards in mind. The Company continuously improves the Service to ensure the best Consumer experience. However, it does not guarantee uninterrupted operation, accuracy of results, or compatibility with all data formats.
-USE OF ARTIFICIAL INTELLIGENCE The Service implements part of its functionality through artificial intelligence algorithms that enable the analysis, processing, and generation of text-based responses within the Consumer’s interaction with AI models. These algorithms are used to enhance the efficiency and convenience of using the Service. However, the results they produce are of an informational and assistive nature only. The results provided to the Consumer are generated automatically based on machine learning models that analyze incoming messages and create relevant responses, taking into account the context of the conversation. Requests are processed without human involvement. During system operation, text data is temporarily converted into structured input parameters necessary for the algorithms to function. This representation does not contain personalized information, does not allow for the reconstruction of private message content outside the communication session, and is not used to create permanent Consumer profiles. The Company approaches the use of artificial intelligence technologies with caution, adhering to the principles of ethical, safe, and responsible application. The development, training, and maintenance of AI systems are carried out in accordance with applicable standards of privacy, data security, and Consumer rights. By using the Service, the Consumer acknowledges that they are interacting with a technological solution that operates based on artificial intelligence models. The responses provided by chat agents are generated automatically and may contain inaccuracies or may not fully meet the Consumer’s expectations due to the probabilistic nature of the algorithms. The Company recommends using the provided results with reasonable caution and critical consideration, especially in cases involving important decisions. The AI systems used in the Service do not assess the content of messages, do not possess independent judgment, and do not make decisions that have legal force or may affect the rights or obligations of third parties. The algorithms process textual data formally, without emotional, ethical, or semantic interpretation of the content. The Company continuously improves its algorithms and implements internal mechanisms to ensure quality, transparency, and safety. However, the Company does not guarantee complete error-free operation of the AI systems and is not responsible for any consequences resulting from the Consumer’s reliance on AI-generated results without additional verification or professional evaluation.
-RIGHTS AND OBLIGATIONS OF THE PARTIES 6.1. Rights and obligations of Consumers The Consumer has the right to: ● access the functional capabilities of the Service; ● use the search function and other tools of the Service for processing materials; ● upload their own materials for processing and receive results from AI chats; ● familiarize themselves with information about data sources or files obtained as a result of processing; ● modify or delete their Account at any time; ● receive technical support within the limits defined by the Company; ● review updates to the Terms and other Service policies. The Consumer is obliged to: ● comply with the provisions of these Terms and other documents regulating the use of the Service; ● not transfer data for accessing their Account to third parties; ● provide accurate, current, and complete information during registration; ● refrain from uploading Information that violates copyright, moral norms, or applicable law; ● use the Service solely within its functional purpose; ● not perform actions that may harm the stable operation of the Service or other Consumers. 6.2. Rights and obligations of the Company The Company has the right to: ● modify or update the functionality of the Service, its design, structure, or available features; ● restrict or terminate a Consumer’s access in case of violation of the Terms; ● temporarily suspend the operation of the Service or its parts for technical, legal, or commercial reasons; ● send informational, service, or administrative messages to the Consumer; ● collect, process, and store technical and other information in accordance with the Privacy Notice; ● implement new functions or restrictions to ensure the security and stability of the platform. The Company is obliged to: ● provide access to the Service and its functions; ● provide technical support and develop the Service within its resources; ● guarantee the confidentiality of Consumers’ personal data in accordance with applicable law and the Privacy Notice; ● inform Consumers about changes in the Terms or the functionality of the Service; ● take reasonable measures to prevent unauthorized access to the Service infrastructure; ● comply with applicable law in the field of data processing, digital services, and copyright.
-PRICING PLANS, PAYMENT, AND COMMERCIAL TERMS The Service provides Consumers with access to a basic free plan, as well as the option to purchase a paid subscription for extended functionality. The free plan allows Consumers to familiarize themselves with the main features of the Service, while the paid subscription unlocks additional tools and benefits for more efficient use. A paid subscription is issued for a specified period and grants the Consumer extended access to the Service’s functionality in accordance with the selected pricing plan. Subscription setup and payment are carried out through the Consumer’s personal account, following the procedure established by the Company. Subscription management is available through the Consumer Account, including the ability to switch from a basic to a paid plan or vice versa, as well as to view the subscription period, renew, or cancel it. In case of cancellation of the paid subscription, access to additional features will end after the already paid period expires. The Company reserves the right to modify the terms of the Pricing plans or the list of features available under each plan. The Consumer will be notified in advance of any changes that may significantly affect the terms of use, through the Service interface or other available communication channels. The Service does not sell or directly transfer Consumers’ Information. All information entered by Consumers while using the Service is processed solely to ensure its operation, proper functionality, and service quality improvement. The Company is not responsible for the further use or processing of such Information by third parties in cases beyond its control.
-CONSUMER INFORMATION Information that the Consumer enters, uploads, or creates while using the Service includes texts, requests, documents, and other materials necessary for the operation of AI models and for performing tasks in chats. Results generated by AI based on this data are also considered part of the Consumer’s Information. All Information is provided by the Consumer voluntarily and is used exclusively within the functionality of the Service. The Consumer retains ownership rights to the provided or created Information. By using the Service, the Consumer grants the Company a non-exclusive, revocable right to process this Information for the purpose of providing services, generating responses, conducting analytics, and improving the functionality of the Service, as well as ensuring the stability and security of its operation. Information is stored in the system for the duration of the active Consumer Account and is available for viewing, editing, or deletion. The Company does not distribute data outside the Service and does not use it for third-party commercial purposes without the Consumer’s consent, except as required by law. The Consumer is responsible for the accuracy, legality, and security of the provided Information. Uploading or entering data that violates the rights of third parties, including copyright, or contains personal information without proper consent is prohibited. In case of violations, the Company has the right to restrict the Consumer’s access to the Service or delete Information that violates the rules. The Company processes Information using automated algorithms to ensure proper operation of the Service, generate responses, perform performance analytics, and optimize functionality. Processing is carried out in a secure environment with limited access and in accordance with privacy standards and applicable law. By using the Service, the Consumer confirms that they have read these Terms and agree to the processing of the provided Information within the functionality of the Service, including its storage and use for viewing, editing, and improving the quality of services.
-LIMITATION OF LIABILITY 9.1. Consumer actions and Information The Company is not responsible for any actions or omissions of the Consumer in connection with the use of the Service. The Consumer is solely responsible for the legality of the information uploaded or transmitted, the proper use of the Service’s functions, and compliance with applicable law and these Terms. The Company does not guarantee that the use of the Service will not infringe upon the rights of third parties and is not obliged to conduct prior verification of Consumer Information. 9.2. Limitation of the Company’s liability The Company is not liable for any losses, data loss, service interruptions, or inability to access the Service resulting from technical malfunctions, internet connection failures, malicious software, Consumer hardware errors, hosting provider outages, or other circumstances beyond the Company’s control. The Service may use integrations with third-party platforms, language models, or analytical tools. The Company does not control the operation of such third-party solutions and is not responsible for their content, data processing policies, or the results of their operation. The Consumer uses features based on external services at their own risk. 9.3. No warranty regarding results of use The results generated through artificial intelligence language models are automated and may contain inaccuracies, errors, or information that does not meet the Consumer’s expectations. The Company is not responsible for the consequences of using such results in professional, educational, or any other activities. The Company does not guarantee uninterrupted, error-free, or fully compatible operation of the Service with all types of devices and software. The Service is provided “as is,” without any express or implied warranties, including but not limited to warranties of accuracy, fitness for purpose, or meeting the Consumer’s expectations. The Consumer acknowledges that data transmission over the Internet always involves certain risks, and the Company cannot guarantee the absolute security of information during its processing or storage, especially in cases of third-party actions beyond the Company’s control. 9.4. Limitation of liability for payment transactions Payments for subscriptions or access to paid Service features are processed through third-party payment providers. The Company is not a financial institution, does not store or process Consumers’ payment details, and does not control the technical process of transaction execution. Accordingly, the Company is not responsible for payment system failures, delays in fund transfers, duplicate charges, bank refusals, or any other issues arising on the side of the provider or financial institution. The Consumer is responsible for ensuring the validity of their payment method, compliance with bank conditions, and maintaining a sufficient balance for payment. If a transaction cannot be processed or payment conditions are violated, access to paid features may be temporarily suspended until the payment is successfully completed. The Company reserves the right to modify the price, terms, or access to paid plans due to technical, commercial, or security reasons. To the maximum extent permitted by law, the Company’s total liability for any claims related to the paid features of the Service is limited to the amount actually paid by the Consumer during the last 12 (twelve) months of use.
-INTELLECTUAL PROPERTY All materials posted on the Service, including texts, images, logos, videos, graphic design, software, and other elements, are objects of the Company’s intellectual property rights or are used on a lawful basis. All intellectual property rights to the materials of the Service belong to the Company. The Consumer is granted a limited, non-exclusive, revocable right to access and use the materials solely within the functionality of the Service and in accordance with these Terms. Use of the materials outside the provided functions or for commercial purposes without the Company’s consent is prohibited. The Consumer is prohibited from copying, modifying, distributing, reproducing, transferring to third parties, or otherwise using the materials of the Service without prior consent of the Company. Such actions are considered a violation of intellectual property rights and may entail legal liability. Exceptions are possible only in accordance with applicable law or the terms of specific materials. Materials provided by the Consumers for processing in the Service remain the property of the Consumer, but during their use within the Service, they may be processed to provide functionality. Providing Information does not transfer any intellectual property rights to the Company. The Company reserves the right to take measures to protect its intellectual property rights, including temporarily or permanently restricting a Consumer’s access to the Service in case of violation of these rights. The Consumer is solely responsible for respecting the intellectual property rights of third parties when using the Service. Use of the Service after amendments to these Terms signifies full acceptance of the updated provisions regarding the protection of intellectual property rights. The Company reserves the right to update or modify the provisions regarding intellectual property rights at any time without prior consent from the Consumer.
-FINAL PROVISIONS 11.1. Governing law These Terms, as well as all legal relations between the Consumer and the Company, shall be governed by the substantive law of the Republic of Seychelles, regardless of the Consumer’s place of residence or location. Any disputes that cannot be resolved through negotiation shall be finally settled by the competent court at the Company’s place of registration. 11.2. Dispute resolution All disputes, disagreements, or claims arising in connection with the use of the Service or the performance of these Terms shall be resolved through negotiations between the parties. If the parties are unable to reach an agreement through direct negotiations within 30 (thirty) calendar days, the dispute shall be resolved in accordance with applicable law. The Consumer agrees that, prior to initiating any judicial or administrative proceedings, they must submit a written complaint to the Company via the contact form or email address indicated on the Service. The Company undertakes to review such a complaint within 15 (fifteen) business days. 11.3. Force majeure Neither party shall be liable for partial or complete failure to perform its obligations under these Terms if such failure results from force majeure circumstances. Force majeure refers to events or circumstances beyond the reasonable control of the parties, including but not limited to natural disasters, acts of war, civil unrest, epidemics, actions of governmental authorities, failures of telecommunication networks or internet providers, as well as hacker or cyberattacks. A party that is unable to fulfill its obligations due to force majeure must immediately notify the other party of the occurrence of such circumstances. The burden of proof of the existence of force majeure lies with the party invoking it. 11.4. Amendments to the Terms The Company reserves the right to update or modify these Terms at any time. All changes take effect from the moment the new version is published on the Service, unless explicitly stated otherwise. The Consumer is responsible for regularly reviewing the Terms for updates. Continued use of the Service after any changes have been made constitutes full acceptance of the updated Terms.
-CONTACT INFORMATION If you have any questions regarding this Agreement, please contact our support team at the following email address: contact@zuvu.ai We will make every effort to assist You as quickly as possible.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">3. USE OF THE SERVICE</h2>
+            <p className="mb-3">
+              The Consumer gains access to the Service through the web interface after completing the basic authorization procedures defined by these Terms. Some functions may be limited or unavailable without creating an Account.
+            </p>
+            <p className="mb-3">
+              The use of the Service is permitted only within its intended purpose, namely for entering, generating, analyzing, and processing Information. The Consumer undertakes not to violate the technical or functional stability of the Service and not to interfere with other Consumers' access.
+            </p>
+            <p className="mb-3">
+              The Company reserves the right to modify, update, or discontinue the operation of certain functions or the Service as a whole, as well as to introduce temporary technical or administrative restrictions to ensure the safe and stable operation of the Service.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">3.1. Registration and Account</h3>
+            <p className="mb-3">
+              To gain full access to all components and extended functionality of the Service, the Consumer must create an Account. Registration is possible via a Google account, MetaMask, or using an email address with subsequent verification.
+            </p>
+            <p className="mb-3">
+              During registration, the Consumer must provide accurate, complete, and up-to-date information. The Company may also request the creation of a password and confirmation of agreement with the terms of this Agreement.
+            </p>
+            <p className="mb-3">
+              After successful registration, the Consumer is granted access to use AI chats, where they can select any available AI, interact with it, submit requests, and create or generate Information in accordance with the functionality of the Service.
+            </p>
+            <p className="mb-3">
+              The Consumer is responsible for maintaining the confidentiality of their account information, including the password, and must take appropriate measures to prevent unauthorized access to their Account. In the event of suspected or detected unauthorized access, the Consumer must immediately notify the Company through the specified contact channels.
+            </p>
+            <p className="mb-3">
+              All actions performed through the Consumer's Account are considered to have been carried out by the Consumer personally, unless proven otherwise. The Company is not responsible for the consequences of actions performed through the Account in case the Consumer violates confidentiality requirements.
+            </p>
+            <p className="mb-3">
+              The Consumer undertakes to timely update the information provided during registration so that it remains accurate and up-to-date. In the event of inaccurate or outdated information being detected, the Company reserves the right to suspend or limit access to the Service, after providing prior notice to the Consumer.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">3.2. Restrictions on the use of the Service</h3>
+            <p className="mb-3">
+              The use of the Service for any activity that contradicts applicable law, including fraud, data manipulation, or other illegal activity, is strictly prohibited. In particular, providing false information, using another person's personal data, misleading the Company, as well as using the Service to obtain improper benefits or circumvent the provisions of these Terms, is not allowed.
+            </p>
+            <p className="mb-3">
+              The Consumer does not have the right to submit requests or perform actions on behalf of other persons without their explicit consent, nor to carry out any actions through the Service that may cause harm to the Company or other Consumers.
+            </p>
+            <p className="mb-3">
+              A violation of the Terms is considered to be the unauthorized use, copying, modification, or distribution of Information or results protected by intellectual property rights. Interference with the operation of the Service is prohibited, including vulnerability testing, use of automated data collection tools, or attempts to bypass technical restrictions.
+            </p>
+            <p className="mb-3">
+              Such actions may result in the immediate termination of access to the Service. In the event of detected violations, the Company reserves the right to apply technical or administrative measures, as well as to provide information to competent authorities in accordance with applicable law.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">3.3. Access restrictions and Account deletion</h3>
+            <p className="mb-2">The Company reserves the right to temporarily restrict or completely terminate a Consumer's access to the Service in cases of:</p>
+            <ul className="list-disc pl-6 space-y-2 mb-3">
+              <li>violation of the provisions of these Terms, the Privacy Notice, or other Service rules;</li>
+              <li>abuse of the Service's functionality or attempts to interfere with its operation;</li>
+              <li>providing false, misleading, or inaccurate information;</li>
+              <li>using the Service for illegal activities;</li>
+              <li>performing actions that may cause harm to the Company;</li>
+              <li>receiving justified complaints or official requests from government authorities or judicial bodies.</li>
+            </ul>
+            <p className="mb-3">
+              In the case of systematic or significant violations, as well as when risks to the security of the Service arise, the Company has the right, without prior notice, to temporarily block, deactivate, or permanently delete the Consumer's Account along with all related information. This includes cases of fraud, manipulation, attempts to bypass technical restrictions, or if the Consumer is located in a jurisdiction where the use of the Service violates international sanctions or regulatory requirements.
+            </p>
+            <p className="mb-3">
+              The Consumer will be notified of the access restriction or Account deletion with a general reason, unless otherwise required by applicable law or the requirements of competent authorities.
+            </p>
+            <p className="mb-3">
+              The Consumer also has the right to initiate deletion of their Account independently by contacting customer support. After confirmation of such a request, access to the Service and data associated with the Account will be terminated, except in cases where the Company is required to retain certain information in accordance with law or internal security policies.
+            </p>
+            <p className="mb-3">
+              Temporary restriction or permanent termination of access to the Service does not release the Consumer from responsibility for actions performed prior to that moment and does not constitute grounds for a refund under the Pricing Plan, unless otherwise provided by applicable law or these Terms.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">4. PROVISION OF SERVICES</h2>
+            <p className="mb-3">
+              The Service provides Consumers with the ability to interact with artificial intelligence language models available within the range defined by the Company. The Consumer may select a model from the provided list, ask questions, search for information, and receive answers in a chat format.
+            </p>
+            <p className="mb-3">
+              Requests are processed automatically using artificial intelligence algorithms that analyze the content of the input data and generate the most relevant results. Through an intuitive web interface, the Consumer can conveniently conduct multiple dialogues, view the history of previous conversations, and return to them at any time.
+            </p>
+            <p className="mb-3">
+              If necessary, the Consumer may upload documents for analysis, summarization, or information retrieval using the selected model. Such files are processed exclusively within the functionality of the Service, and their use is limited to the purpose of the request, without transferring data to third parties.
+            </p>
+            <p className="mb-3">
+              To improve response accuracy, the Service employs an intelligent Router system that automatically determines which of the available models is best suited for a specific request. It analyzes the context, content, and purpose of the query, then directs it to the most appropriate model. In the case of complex tasks, the Router may involve multiple models simultaneously, compare their results, and generate the most accurate response.
+            </p>
+            <p className="mb-3">
+              The Company reserves the right to modify the scope or set of features available within the Service, as well as to introduce new services, restrictions, or technical solutions. Such changes may be implemented without prior approval from the Consumer but will be subsequently communicated through the Service interface or other communication channels.
+            </p>
+            <p className="mb-3">
+              The Service is intended for individual use. Any form of automated or mass access, including the use of bots, external scripts, or programs for data collection or processing, is prohibited. Such actions are considered a violation of the terms of use and may result in restricted or suspended access.
+            </p>
+            <p className="mb-3">
+              The functionality of the Service is designed with principles of confidentiality, technical security, and compliance with international data processing standards in mind. The Company continuously improves the Service to ensure the best Consumer experience. However, it does not guarantee uninterrupted operation, accuracy of results, or compatibility with all data formats.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">5. USE OF ARTIFICIAL INTELLIGENCE</h2>
+            <p className="mb-3">
+              The Service implements part of its functionality through artificial intelligence algorithms that enable the analysis, processing, and generation of text-based responses within the Consumer's interaction with AI models. These algorithms are used to enhance the efficiency and convenience of using the Service. However, the results they produce are of an informational and assistive nature only.
+            </p>
+            <p className="mb-3">
+              The results provided to the Consumer are generated automatically based on machine learning models that analyze incoming messages and create relevant responses, taking into account the context of the conversation.
+            </p>
+            <p className="mb-3">
+              Requests are processed without human involvement. During system operation, text data is temporarily converted into structured input parameters necessary for the algorithms to function. This representation does not contain personalized information, does not allow for the reconstruction of private message content outside the communication session, and is not used to create permanent Consumer profiles.
+            </p>
+            <p className="mb-3">
+              The Company approaches the use of artificial intelligence technologies with caution, adhering to the principles of ethical, safe, and responsible application. The development, training, and maintenance of AI systems are carried out in accordance with applicable standards of privacy, data security, and Consumer rights.
+            </p>
+            <p className="mb-3">
+              By using the Service, the Consumer acknowledges that they are interacting with a technological solution that operates based on artificial intelligence models. The responses provided by chat agents are generated automatically and may contain inaccuracies or may not fully meet the Consumer's expectations due to the probabilistic nature of the algorithms. The Company recommends using the provided results with reasonable caution and critical consideration, especially in cases involving important decisions.
+            </p>
+            <p className="mb-3">
+              The AI systems used in the Service do not assess the content of messages, do not possess independent judgment, and do not make decisions that have legal force or may affect the rights or obligations of third parties. The algorithms process textual data formally, without emotional, ethical, or semantic interpretation of the content.
+            </p>
+            <p className="mb-3">
+              The Company continuously improves its algorithms and implements internal mechanisms to ensure quality, transparency, and safety. However, the Company does not guarantee complete error-free operation of the AI systems and is not responsible for any consequences resulting from the Consumer's reliance on AI-generated results without additional verification or professional evaluation.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">6. RIGHTS AND OBLIGATIONS OF THE PARTIES</h2>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">6.1. Rights and obligations of Consumers</h3>
+            <p className="mb-2">The Consumer has the right to:</p>
+            <ul className="list-disc pl-6 space-y-2 mb-3">
+              <li>access the functional capabilities of the Service;</li>
+              <li>use the search function and other tools of the Service for processing materials;</li>
+              <li>upload their own materials for processing and receive results from AI chats;</li>
+              <li>familiarize themselves with information about data sources or files obtained as a result of processing;</li>
+              <li>modify or delete their Account at any time;</li>
+              <li>receive technical support within the limits defined by the Company;</li>
+              <li>review updates to the Terms and other Service policies.</li>
+            </ul>
+            <p className="mb-2">The Consumer is obliged to:</p>
+            <ul className="list-disc pl-6 space-y-2 mb-3">
+              <li>comply with the provisions of these Terms and other documents regulating the use of the Service;</li>
+              <li>not transfer data for accessing their Account to third parties;</li>
+              <li>provide accurate, current, and complete information during registration;</li>
+              <li>refrain from uploading Information that violates copyright, moral norms, or applicable law;</li>
+              <li>use the Service solely within its functional purpose;</li>
+              <li>not perform actions that may harm the stable operation of the Service or other Consumers.</li>
+            </ul>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">6.2. Rights and obligations of the Company</h3>
+            <p className="mb-2">The Company has the right to:</p>
+            <ul className="list-disc pl-6 space-y-2 mb-3">
+              <li>modify or update the functionality of the Service, its design, structure, or available features;</li>
+              <li>restrict or terminate a Consumer's access in case of violation of the Terms;</li>
+              <li>temporarily suspend the operation of the Service or its parts for technical, legal, or commercial reasons;</li>
+              <li>send informational, service, or administrative messages to the Consumer;</li>
+              <li>collect, process, and store technical and other information in accordance with the Privacy Notice;</li>
+              <li>implement new functions or restrictions to ensure the security and stability of the platform.</li>
+            </ul>
+            <p className="mb-2">The Company is obliged to:</p>
+            <ul className="list-disc pl-6 space-y-2 mb-3">
+              <li>provide access to the Service and its functions;</li>
+              <li>provide technical support and develop the Service within its resources;</li>
+              <li>guarantee the confidentiality of Consumers' personal data in accordance with applicable law and the Privacy Notice;</li>
+              <li>inform Consumers about changes in the Terms or the functionality of the Service;</li>
+              <li>take reasonable measures to prevent unauthorized access to the Service infrastructure;</li>
+              <li>comply with applicable law in the field of data processing, digital services, and copyright.</li>
+            </ul>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">7. PRICING PLANS, PAYMENT, AND COMMERCIAL TERMS</h2>
+            <p className="mb-3">
+              The Service provides Consumers with access to a basic free plan, as well as the option to purchase a paid subscription for extended functionality. The free plan allows Consumers to familiarize themselves with the main features of the Service, while the paid subscription unlocks additional tools and benefits for more efficient use.
+            </p>
+            <p className="mb-3">
+              A paid subscription is issued for a specified period and grants the Consumer extended access to the Service's functionality in accordance with the selected pricing plan. Subscription setup and payment are carried out through the Consumer's personal account, following the procedure established by the Company.
+            </p>
+            <p className="mb-3">
+              Subscription management is available through the Consumer Account, including the ability to switch from a basic to a paid plan or vice versa, as well as to view the subscription period, renew, or cancel it. In case of cancellation of the paid subscription, access to additional features will end after the already paid period expires.
+            </p>
+            <p className="mb-3">
+              The Company reserves the right to modify the terms of the Pricing plans or the list of features available under each plan. The Consumer will be notified in advance of any changes that may significantly affect the terms of use, through the Service interface or other available communication channels.
+            </p>
+            <p className="mb-3">
+              The Service does not sell or directly transfer Consumers' Information. All information entered by Consumers while using the Service is processed solely to ensure its operation, proper functionality, and service quality improvement. The Company is not responsible for the further use or processing of such Information by third parties in cases beyond its control.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">8. CONSUMER INFORMATION</h2>
+            <p className="mb-3">
+              Information that the Consumer enters, uploads, or creates while using the Service includes texts, requests, documents, and other materials necessary for the operation of AI models and for performing tasks in chats. Results generated by AI based on this data are also considered part of the Consumer's Information. All Information is provided by the Consumer voluntarily and is used exclusively within the functionality of the Service.
+            </p>
+            <p className="mb-3">
+              The Consumer retains ownership rights to the provided or created Information. By using the Service, the Consumer grants the Company a non-exclusive, revocable right to process this Information for the purpose of providing services, generating responses, conducting analytics, and improving the functionality of the Service, as well as ensuring the stability and security of its operation.
+            </p>
+            <p className="mb-3">
+              Information is stored in the system for the duration of the active Consumer Account and is available for viewing, editing, or deletion. The Company does not distribute data outside the Service and does not use it for third-party commercial purposes without the Consumer's consent, except as required by law.
+            </p>
+            <p className="mb-3">
+              The Consumer is responsible for the accuracy, legality, and security of the provided Information. Uploading or entering data that violates the rights of third parties, including copyright, or contains personal information without proper consent is prohibited. In case of violations, the Company has the right to restrict the Consumer's access to the Service or delete Information that violates the rules.
+            </p>
+            <p className="mb-3">
+              The Company processes Information using automated algorithms to ensure proper operation of the Service, generate responses, perform performance analytics, and optimize functionality. Processing is carried out in a secure environment with limited access and in accordance with privacy standards and applicable law.
+            </p>
+            <p className="mb-3">
+              By using the Service, the Consumer confirms that they have read these Terms and agree to the processing of the provided Information within the functionality of the Service, including its storage and use for viewing, editing, and improving the quality of services.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">9. LIMITATION OF LIABILITY</h2>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">9.1. Consumer actions and Information</h3>
+            <p className="mb-3">
+              The Company is not responsible for any actions or omissions of the Consumer in connection with the use of the Service. The Consumer is solely responsible for the legality of the information uploaded or transmitted, the proper use of the Service's functions, and compliance with applicable law and these Terms. The Company does not guarantee that the use of the Service will not infringe upon the rights of third parties and is not obliged to conduct prior verification of Consumer Information.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">9.2. Limitation of the Company's liability</h3>
+            <p className="mb-3">
+              The Company is not liable for any losses, data loss, service interruptions, or inability to access the Service resulting from technical malfunctions, internet connection failures, malicious software, Consumer hardware errors, hosting provider outages, or other circumstances beyond the Company's control.
+            </p>
+            <p className="mb-3">
+              The Service may use integrations with third-party platforms, language models, or analytical tools. The Company does not control the operation of such third-party solutions and is not responsible for their content, data processing policies, or the results of their operation. The Consumer uses features based on external services at their own risk.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">9.3. No warranty regarding results of use</h3>
+            <p className="mb-3">
+              The results generated through artificial intelligence language models are automated and may contain inaccuracies, errors, or information that does not meet the Consumer's expectations. The Company is not responsible for the consequences of using such results in professional, educational, or any other activities.
+            </p>
+            <p className="mb-3">
+              The Company does not guarantee uninterrupted, error-free, or fully compatible operation of the Service with all types of devices and software. The Service is provided "as is," without any express or implied warranties, including but not limited to warranties of accuracy, fitness for purpose, or meeting the Consumer's expectations.
+            </p>
+            <p className="mb-3">
+              The Consumer acknowledges that data transmission over the Internet always involves certain risks, and the Company cannot guarantee the absolute security of information during its processing or storage, especially in cases of third-party actions beyond the Company's control.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">9.4. Limitation of liability for payment transactions</h3>
+            <p className="mb-3">
+              Payments for subscriptions or access to paid Service features are processed through third-party payment providers. The Company is not a financial institution, does not store or process Consumers' payment details, and does not control the technical process of transaction execution. Accordingly, the Company is not responsible for payment system failures, delays in fund transfers, duplicate charges, bank refusals, or any other issues arising on the side of the provider or financial institution.
+            </p>
+            <p className="mb-3">
+              The Consumer is responsible for ensuring the validity of their payment method, compliance with bank conditions, and maintaining a sufficient balance for payment. If a transaction cannot be processed or payment conditions are violated, access to paid features may be temporarily suspended until the payment is successfully completed.
+            </p>
+            <p className="mb-3">
+              The Company reserves the right to modify the price, terms, or access to paid plans due to technical, commercial, or security reasons. To the maximum extent permitted by law, the Company's total liability for any claims related to the paid features of the Service is limited to the amount actually paid by the Consumer during the last 12 (twelve) months of use.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">10. INTELLECTUAL PROPERTY</h2>
+            <p className="mb-3">
+              All materials posted on the Service, including texts, images, logos, videos, graphic design, software, and other elements, are objects of the Company's intellectual property rights or are used on a lawful basis.
+            </p>
+            <p className="mb-3">
+              All intellectual property rights to the materials of the Service belong to the Company. The Consumer is granted a limited, non-exclusive, revocable right to access and use the materials solely within the functionality of the Service and in accordance with these Terms. Use of the materials outside the provided functions or for commercial purposes without the Company's consent is prohibited.
+            </p>
+            <p className="mb-3">
+              The Consumer is prohibited from copying, modifying, distributing, reproducing, transferring to third parties, or otherwise using the materials of the Service without prior consent of the Company. Such actions are considered a violation of intellectual property rights and may entail legal liability. Exceptions are possible only in accordance with applicable law or the terms of specific materials.
+            </p>
+            <p className="mb-3">
+              Materials provided by the Consumers for processing in the Service remain the property of the Consumer, but during their use within the Service, they may be processed to provide functionality. Providing Information does not transfer any intellectual property rights to the Company.
+            </p>
+            <p className="mb-3">
+              The Company reserves the right to take measures to protect its intellectual property rights, including temporarily or permanently restricting a Consumer's access to the Service in case of violation of these rights. The Consumer is solely responsible for respecting the intellectual property rights of third parties when using the Service.
+            </p>
+            <p className="mb-3">
+              Use of the Service after amendments to these Terms signifies full acceptance of the updated provisions regarding the protection of intellectual property rights. The Company reserves the right to update or modify the provisions regarding intellectual property rights at any time without prior consent from the Consumer.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">11. FINAL PROVISIONS</h2>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">11.1. Governing law</h3>
+            <p className="mb-3">
+              These Terms, as well as all legal relations between the Consumer and the Company, shall be governed by the substantive law of the Republic of Seychelles, regardless of the Consumer's place of residence or location. Any disputes that cannot be resolved through negotiation shall be finally settled by the competent court at the Company's place of registration.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">11.2. Dispute resolution</h3>
+            <p className="mb-3">
+              All disputes, disagreements, or claims arising in connection with the use of the Service or the performance of these Terms shall be resolved through negotiations between the parties. If the parties are unable to reach an agreement through direct negotiations within 30 (thirty) calendar days, the dispute shall be resolved in accordance with applicable law.
+            </p>
+            <p className="mb-3">
+              The Consumer agrees that, prior to initiating any judicial or administrative proceedings, they must submit a written complaint to the Company via the contact form or email address indicated on the Service. The Company undertakes to review such a complaint within 15 (fifteen) business days.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">11.3. Force majeure</h3>
+            <p className="mb-3">
+              Neither party shall be liable for partial or complete failure to perform its obligations under these Terms if such failure results from force majeure circumstances. Force majeure refers to events or circumstances beyond the reasonable control of the parties, including but not limited to natural disasters, acts of war, civil unrest, epidemics, actions of governmental authorities, failures of telecommunication networks or internet providers, as well as hacker or cyberattacks.
+            </p>
+            <p className="mb-3">
+              A party that is unable to fulfill its obligations due to force majeure must immediately notify the other party of the occurrence of such circumstances. The burden of proof of the existence of force majeure lies with the party invoking it.
+            </p>
+
+            <h3 className="text-xl font-bold text-[#0a0a0a] mt-6 mb-3">11.4. Amendments to the Terms</h3>
+            <p className="mb-3">
+              The Company reserves the right to update or modify these Terms at any time. All changes take effect from the moment the new version is published on the Service, unless explicitly stated otherwise. The Consumer is responsible for regularly reviewing the Terms for updates. Continued use of the Service after any changes have been made constitutes full acceptance of the updated Terms.
+            </p>
+
+            <h2 className="text-2xl font-bold text-[#0a0a0a] mt-8 mb-4">12. CONTACT INFORMATION</h2>
+            <p className="mb-3">
+              If you have any questions regarding this Agreement, please contact our support team at the following email address: <a href="mailto:contact@zuvu.ai" className="text-[#020CFE] hover:underline">contact@zuvu.ai</a>
+            </p>
+            <p className="mb-3">
+              We will make every effort to assist You as quickly as possible.
+            </p>
+
 
             <p className="mt-12 text-base italic">
               For the complete Terms and Conditions document including all sections 3-12, please continue reading below or contact us at contact@zuvu.ai
