@@ -25,7 +25,7 @@ export default function Hero({ onTryFree }: HeroProps) {
             </div>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              One UI. One subscription. Access Grok 4.1, ChatGPT 5.1, Gemini 3 Pro, and 200+ more models. Build on each other's responses. Get better answers together.
+              One UI. One subscription. Access Grok 4.1, ChatGPT 5.1, Gemini 3 Pro, and 200+ more models. Build on each models responses. Get better answers together.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
