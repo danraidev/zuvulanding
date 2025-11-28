@@ -39,7 +39,7 @@ export default function Footer() {
       title: 'Product',
       links: [
         { label: 'Features', href: '#why-zuvu' },
-        { label: 'Pricing', href: '#' },
+        { label: 'Pricing', href: '#pricing' },
         { label: 'FAQ', href: '#faq' },
       ],
     },

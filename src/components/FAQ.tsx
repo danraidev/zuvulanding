@@ -6,15 +6,15 @@ export default function FAQ() {
 
   const faqCategories = [
     {
-      category: 'About Zuvu.ai.ai',
+      category: 'About Zuvu.ai',
       faqs: [
         {
-          question: 'What is Zuvu.ai.ai?',
-          answer: 'Zuvu.ai.ai is a collaborative AI workspace that brings together multiple AI models and human teammates in one chat. It offers a smart routing engine, document-aware chat, chat rules (system prompts that persist through the whole chat), custom routing rules to different models, and integration with other productivity tools. The goal is to give users reliable answers and workflows without constant tab-switching or manual copy-pasting.',
+          question: 'What is Zuvu.ai?',
+          answer: 'Zuvu.ai is a collaborative AI workspace that brings together multiple AI models and human teammates in one chat. It offers a smart routing engine, document-aware chat, chat rules (system prompts that persist through the whole chat), custom routing rules to different models, and integration with other productivity tools. The goal is to give users reliable answers and workflows without constant tab-switching or manual copy-pasting.',
         },
         {
           question: 'How does the Smart Router work?',
-          answer: 'The Smart Router uses category-aware routing: when you ask a question, Zuvu.ai.ai assigns it to a category (such as research, coding, legal, analytics, etc.) and selects the model that tends to perform best for that category. For example, a research question might be routed to Perplexity Sonar, while a coding question might use Claude Sonnet 4.5. This removes guess-work and ensures that each query goes to the best model available.',
+          answer: 'The Smart Router uses category-aware routing: when you ask a question, Zuvu.ai assigns it to a category (such as research, coding, legal, analytics, etc.) and selects the model that tends to perform best for that category. For example, a research question might be routed to Perplexity Sonar, while a coding question might use Claude Sonnet 4.5. This removes guess-work and ensures that each query goes to the best model available.',
         },
         {
           question: 'Which AI models can I use?',
@@ -62,6 +62,7 @@ export default function FAQ() {
         {
           question: 'How much does Zuvu.ai cost?',
           answer: 'Zuvu.ai is free to try for one prompt. After that, the service currently costs US$4.99 per month. A paid subscription unlocks access to multiple models, document handling, web search, image generation, custom routers and Notion export.',
+          id: 'pricing',
         },
         {
           question: 'How does Zuvu.ai handle privacy and data security?',
@@ -102,6 +103,7 @@ export default function FAQ() {
                   return (
                     <div
                       key={faqIndex}
+                      id={faq.id}
                       className="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-md transition-all duration-200"
                     >
                       <button
