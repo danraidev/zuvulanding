@@ -381,7 +381,7 @@ export default function Terms() {
 
 
             <p className="mt-12 text-base italic">
-              For the complete Terms and Conditions document including all sections 3-12, please continue reading below or contact us at contact@zuvu.ai
+             
             </p>
 
             <div className="mt-12 p-6 bg-gray-50 rounded-xl border border-gray-200">
