@@ -71,7 +71,7 @@ export default function About() {
                 rel="noopener noreferrer"
                 className="inline-block px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl"
               >
-                Try Zuvu.ai Free
+                Sign Up to Zuvu.ai
               </a>
             </div>
           </div>

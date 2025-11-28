@@ -56,7 +56,7 @@ export default function Header({ onTryFree }: HeaderProps) {
               rel="noopener noreferrer"
               className="inline-block px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
             >
-              Try Zuvu.ai Free
+              Sign Up to Zuvu.ai
             </a>
           </div>
 
@@ -88,7 +88,7 @@ export default function Header({ onTryFree }: HeaderProps) {
               onClick={() => setIsMobileMenuOpen(false)}
               className="block text-center w-full mt-4 px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
             >
-              Try Zuvu.ai Free
+              Sign Up to Zuvu.ai
             </a>
           </nav>
         )}

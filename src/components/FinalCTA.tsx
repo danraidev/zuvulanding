@@ -18,7 +18,7 @@ export default function FinalCTA({ onTryFree }: FinalCTAProps) {
           rel="noopener noreferrer"
           className="inline-block px-8 py-3.5 bg-white text-[#020CFE] font-semibold rounded-full hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl"
         >
-          Try Zuvu.ai Free
+          Sign Up to Zuvu.ai
         </a>
       </div>
     </section>

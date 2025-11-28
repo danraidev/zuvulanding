@@ -35,7 +35,7 @@ export default function Hero({ onTryFree }: HeroProps) {
                 rel="noopener noreferrer"
                 className="px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl text-center"
               >
-                Try Free
+                Sign Up
               </a>
               <a
                 href="#how-it-works"
