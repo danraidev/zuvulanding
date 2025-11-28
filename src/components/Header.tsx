@@ -51,7 +51,7 @@ export default function Header({ onTryFree }: HeaderProps) {
 
           <div className="hidden md:block">
             <a
-              href="https://www.zuvu.ai/"
+              href="https://accounts.zuvu.ai/sign-up"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
@@ -82,7 +82,7 @@ export default function Header({ onTryFree }: HeaderProps) {
               </a>
             ))}
             <a
-              href="https://www.zuvu.ai/"
+              href="https://accounts.zuvu.ai/sign-up"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => setIsMobileMenuOpen(false)}

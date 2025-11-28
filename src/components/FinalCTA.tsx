@@ -13,7 +13,7 @@ export default function FinalCTA({ onTryFree }: FinalCTAProps) {
           Join users who stopped switching and started getting better answers faster.
         </p>
         <a
-          href="https://www.zuvu.ai/"
+          href="https://accounts.zuvu.ai/sign-up"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-8 py-3.5 bg-white text-[#020CFE] font-semibold rounded-full hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl"
