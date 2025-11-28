@@ -54,7 +54,6 @@ export default function Footer() {
       links: [
         { label: 'Privacy Policy', href: 'https://www.zuvu.ai/privacy-policy' },
         { label: 'Terms of Service', href: '/terms' },
-        { label: 'Cookie Policy', href: '/cookies' },
       ],
     },
   ];
