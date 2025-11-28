@@ -65,12 +65,14 @@ export default function About() {
             </p>
 
             <div className="mt-8">
-              <Link
-                href="/"
+              <a
+                href="https://www.zuvu.ai/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl"
               >
                 Try Zuvu.ai Free
-              </Link>
+              </a>
             </div>
           </div>
         </div>

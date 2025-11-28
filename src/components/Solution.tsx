@@ -61,9 +61,14 @@ export default function Solution() {
         </div>
 
         <div className="mt-16 text-center">
-          <button className="px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl">
-            Start Using Zuvu.ai.ai Free
-          </button>
+          <a
+            href="https://www.zuvu.ai/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl"
+          >
+            Start Using Zuvu.ai Free
+          </a>
         </div>
       </div>
     </section>

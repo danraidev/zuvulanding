@@ -12,12 +12,14 @@ export default function FinalCTA({ onTryFree }: FinalCTAProps) {
         <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto">
           Join users who stopped switching and started getting better answers faster.
         </p>
-        <button
-          onClick={onTryFree}
-          className="px-8 py-3.5 bg-white text-[#020CFE] font-semibold rounded-full hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl"
+        <a
+          href="https://www.zuvu.ai/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block px-8 py-3.5 bg-white text-[#020CFE] font-semibold rounded-full hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl"
         >
           Try Zuvu.ai Free
-        </button>
+        </a>
       </div>
     </section>
   );

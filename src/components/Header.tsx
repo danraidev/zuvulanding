@@ -50,12 +50,14 @@ export default function Header({ onTryFree }: HeaderProps) {
           </nav>
 
           <div className="hidden md:block">
-            <button
-              onClick={onTryFree}
-              className="px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
+            <a
+              href="https://www.zuvu.ai/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
             >
               Try Zuvu.ai Free
-            </button>
+            </a>
           </div>
 
           <button
@@ -79,15 +81,15 @@ export default function Header({ onTryFree }: HeaderProps) {
                 {item.label}
               </a>
             ))}
-            <button
-              onClick={() => {
-                setIsMobileMenuOpen(false);
-                onTryFree();
-              }}
-              className="w-full mt-4 px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
+            <a
+              href="https://www.zuvu.ai/"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="block text-center w-full mt-4 px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
             >
               Try Zuvu.ai Free
-            </button>
+            </a>
           </nav>
         )}
       </div>

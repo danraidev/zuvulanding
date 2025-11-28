@@ -29,12 +29,14 @@ export default function Hero({ onTryFree }: HeroProps) {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <button
-                onClick={onTryFree}
-                className="px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl"
+              <a
+                href="https://www.zuvu.ai/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl text-center"
               >
                 Try Free
-              </button>
+              </a>
               <a
                 href="#how-it-works"
                 className="px-8 py-3.5 bg-white text-[#0a0a0a] font-semibold rounded-full border-2 border-gray-200 hover:border-[#020CFE] hover:text-[#020CFE] transition-all duration-200 flex items-center justify-center gap-2"
@@ -58,7 +60,7 @@ export default function Hero({ onTryFree }: HeroProps) {
                 <div className="flex justify-end">
                   <div className="bg-[#020CFE] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm">
                     <span className="text-xs font-semibold opacity-75 block mb-1">CEO</span>
-                    Create a product launch strategy for Zuvu.ai
+                    @ALL Create a product launch strategy for Zuvu.ai
                   </div>
                 </div>
 
@@ -82,7 +84,16 @@ export default function Hero({ onTryFree }: HeroProps) {
                       Latest market data shows AI workplace tools grew 340% YoY...
                     </div>
                   </div>
+                </div>
 
+                <div className="flex justify-end">
+                  <div className="bg-[#60a5fa] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm">
+                    <span className="text-xs font-semibold opacity-75 block mb-1">CMO</span>
+                    @Claude Whip up a landing page
+                  </div>
+                </div>
+
+                <div className="space-y-3">
                   <div className="flex items-start gap-2">
                     <div className="w-8 h-8 rounded-full bg-gradient-to-br from-indigo-600 to-indigo-700 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
                       X
@@ -92,16 +103,7 @@ export default function Hero({ onTryFree }: HeroProps) {
                       Viral angle: Position as "AI without switching fatigue"...
                     </div>
                   </div>
-                </div>
 
-                <div className="flex justify-end">
-                  <div className="bg-[#020CFE] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm">
-                    <span className="text-xs font-semibold opacity-75 block mb-1">CMO</span>
-                    Clarify strategy
-                  </div>
-                </div>
-
-                <div className="space-y-3">
                   <div className="flex items-start gap-2">
                     <div className="w-8 h-8 rounded-full bg-gradient-to-br from-green-500 to-green-600 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
                       C
