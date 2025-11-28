@@ -17,15 +17,15 @@ export default function Hero({ onTryFree }: HeroProps) {
 
             <div className="space-y-4">
               <h1 className="text-5xl lg:text-6xl font-bold text-[#0a0a0a] leading-tight">
-                Ask Once. Multiplayer AI. No Lost Context.
+                Get unlimited access to top AI models.
               </h1>
               <p className="text-2xl font-semibold text-gray-700">
-                Smart Router finds the best answer for any question.
+                Smart Router finds The Best model to answer any question.
               </p>
             </div>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              One UI. One subscription. Access Grok 4.1, ChatGPT 5.1, Gemini 3 Pro, and 300+ more models. Build on each other's responses. Get better answers together.
+              One UI. One subscription. Access Grok 4.1, ChatGPT 5.1, Gemini 3 Pro, and 200+ more models. Build on each other's responses. Get better answers together.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
