@@ -57,7 +57,8 @@ export default function Hero({ onTryFree }: HeroProps) {
               <div className="p-6 space-y-4 max-h-96 overflow-y-auto">
                 <div className="flex justify-end">
                   <div className="bg-[#020CFE] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm">
-                    Create a product launch strategy for Zuvu
+                    <span className="text-xs font-semibold opacity-75 block mb-1">CEO</span>
+                    Create a product launch strategy for Zuvu.ai
                   </div>
                 </div>
 
@@ -94,6 +95,35 @@ export default function Hero({ onTryFree }: HeroProps) {
                 </div>
 
                 <div className="flex justify-end">
+                  <div className="bg-[#020CFE] text-white rounded-2xl rounded-tr-none px-4 py-3 max-w-xs text-sm">
+                    <span className="text-xs font-semibold opacity-75 block mb-1">CMO</span>
+                    Clarify strategy
+                  </div>
+                </div>
+
+                <div className="space-y-3">
+                  <div className="flex items-start gap-2">
+                    <div className="w-8 h-8 rounded-full bg-gradient-to-br from-green-500 to-green-600 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
+                      C
+                    </div>
+                    <div className="bg-gray-50 rounded-2xl rounded-tl-none px-4 py-3 max-w-sm text-sm text-gray-700">
+                      <div className="font-semibold text-gray-900 mb-1">Claude:</div>
+                      Target B2B teams who struggle with AI tool fragmentation...
+                    </div>
+                  </div>
+
+                  <div className="flex items-start gap-2">
+                    <div className="w-8 h-8 rounded-full bg-gradient-to-br from-orange-400 to-orange-600 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
+                      G
+                    </div>
+                    <div className="bg-gray-50 rounded-2xl rounded-tl-none px-4 py-3 max-w-sm text-sm text-gray-700">
+                      <div className="font-semibold text-gray-900 mb-1">Gemini 3 Pro:</div>
+                      Emphasize ROI: saved subscriptions, time saved, and unified context...
+                    </div>
+                  </div>
+                </div>
+
+                <div className="flex justify-end">
                   <div className="text-xs text-gray-500 italic">
                     All models working in one chat. One context. Real collaboration.
                   </div>
@@ -101,7 +131,7 @@ export default function Hero({ onTryFree }: HeroProps) {
               </div>
 
               <div className="px-6 py-4 bg-gradient-to-r from-gray-50 to-gray-100 border-t border-gray-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-gray-600">Rules • Active</span>
+                <span className="text-xs font-semibold text-gray-600">Rules • Image • Edit • Export</span>
                 <span className="text-xs text-gray-500">All AIs seeing same context</span>
               </div>
             </div>

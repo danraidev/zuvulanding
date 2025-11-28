@@ -29,7 +29,7 @@ export default function Compare() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-[#0a0a0a] mb-4">
-            Traditional Way vs Zuvu
+            Traditional Way vs Zuvu.ai
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Stop wasting time switching between AI tools. See the difference yourself.
@@ -70,7 +70,7 @@ export default function Compare() {
                 <Check className="text-[#020CFE]" size={24} />
               </div>
               <div>
-                <h3 className="text-2xl font-bold text-white">Zuvu</h3>
+                <h3 className="text-2xl font-bold text-white">Zuvu.ai</h3>
                 <p className="text-sm text-blue-100">The smart, efficient way</p>
               </div>
             </div>

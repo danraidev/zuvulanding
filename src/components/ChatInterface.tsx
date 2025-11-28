@@ -13,7 +13,7 @@ export default function ChatInterface({ onClose }: ChatInterfaceProps) {
           onClick={onClose}
           className="w-12 h-12 rounded-xl flex items-center justify-center relative hover:opacity-80 transition-opacity"
         >
-          <img src={zuvuLogo} alt="Zuvu" className="w-12 h-12 rounded-xl" />
+          <img src={zuvuLogo} alt="Zuvu.ai" className="w-12 h-12 rounded-xl" />
         </button>
 
         <nav className="flex flex-col items-center space-y-6">

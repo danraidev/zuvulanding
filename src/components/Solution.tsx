@@ -5,7 +5,7 @@ export default function Solution() {
     {
       icon: Upload,
       title: 'Upload & Analyze Your Files.',
-      description: 'Drop in PDFs, CSVs, and other documents, then ask questions directly against them. Zuvu keeps your files in context so you can summarize, extract insights, or validate claims without copy-paste.',
+      description: 'Drop in PDFs, CSVs, and other documents, then ask questions directly against them. Zuvu.ai keeps your files in context so you can summarize, extract insights, or validate claims without copy-paste.',
     },
     {
       icon: Settings,
@@ -15,7 +15,7 @@ export default function Solution() {
     {
       icon: ImagePlus,
       title: 'Create & Edit Images on the Go.',
-      description: 'Generate images right inside chat: press Create Image, describe what you want, and Zuvu makes it. Want changes? Edit the image in the same thread and keep iterating with your text and files in context.',
+      description: 'Generate images right inside chat: press Create Image, describe what you want, and Zuvu.ai makes it. Want changes? Edit the image in the same thread and keep iterating with your text and files in context.',
     },
     {
       icon: Layers,
@@ -62,7 +62,7 @@ export default function Solution() {
 
         <div className="mt-16 text-center">
           <button className="px-8 py-3.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 shadow-lg hover:shadow-xl">
-            Start Using Zuvu Free
+            Start Using Zuvu.ai.ai Free
           </button>
         </div>
       </div>

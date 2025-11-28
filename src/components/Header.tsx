@@ -19,7 +19,7 @@ export default function Header({ onTryFree }: HeaderProps) {
   }, []);
 
   const navItems = [
-    { label: 'Why Zuvu?', href: '#why-zuvu' },
+    { label: 'Why Zuvu.ai?', href: '#why-zuvu' },
     { label: 'Compare', href: '#compare' },
     { label: 'How It Works', href: '#how-it-works' },
     { label: 'FAQ', href: '#faq' },
@@ -34,7 +34,7 @@ export default function Header({ onTryFree }: HeaderProps) {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <a href="#" className="flex items-center space-x-2">
-            <img src={zuvuLogo} alt="Zuvu" className="w-10 h-10" />
+            <img src={zuvuLogo} alt="Zuvu.ai" className="w-10 h-10" />
           </a>
 
           <nav className="hidden md:flex items-center space-x-8">
@@ -54,7 +54,7 @@ export default function Header({ onTryFree }: HeaderProps) {
               onClick={onTryFree}
               className="px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
             >
-              Try Zuvu Free
+              Try Zuvu.ai Free
             </button>
           </div>
 
@@ -86,7 +86,7 @@ export default function Header({ onTryFree }: HeaderProps) {
               }}
               className="w-full mt-4 px-6 py-2.5 bg-[#020CFE] text-white font-semibold rounded-full hover:bg-[#0108d4] transition-all duration-200 text-sm"
             >
-              Try Zuvu Free
+              Try Zuvu.ai Free
             </button>
           </nav>
         )}

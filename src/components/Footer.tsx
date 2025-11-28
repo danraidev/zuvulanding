@@ -55,7 +55,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <img src={zuvuLogo} alt="Zuvu" className="w-10 h-10" />
+              <img src={zuvuLogo} alt="Zuvu.ai" className="w-10 h-10" />
             </div>
             <p className="text-gray-400 mb-6 max-w-sm">
               The smartest way to work with AI. Get the best answers from multiple AI models in one conversation.
@@ -96,7 +96,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
-              © {currentYear} Zuvu. All rights reserved.
+              © {currentYear} Zuvu.ai. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm">
               Made with care for better AI experiences

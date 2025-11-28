@@ -10,8 +10,8 @@ export default function HowItWorks() {
     },
     {
       icon: Layers,
-      title: 'Choose models (or let Zuvu pick "Auto").',
-      description: 'Zuvu automatically queries ChatGPT, Claude, Gemini, and 250+ other AI models simultaneously.',
+      title: 'Choose models (or let Zuvu.ai pick "Auto").',
+      description: 'Zuvu.ai automatically queries ChatGPT, Claude, Gemini, and 250+ other AI models simultaneously.',
       step: '02',
     },
     {

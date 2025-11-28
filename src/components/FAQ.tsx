@@ -6,23 +6,23 @@ export default function FAQ() {
 
   const faqCategories = [
     {
-      category: 'About Zuvu',
+      category: 'About Zuvu.ai.ai',
       faqs: [
         {
-          question: 'What is Zuvu?',
-          answer: 'Zuvu is a collaborative AI workspace that brings together multiple AI models and human teammates in one chat. It offers a smart routing engine, document-aware chat, chat rules (system prompts that persist through the whole chat), custom routing rules to different models, and integration with other productivity tools. The goal is to give users reliable answers and workflows without constant tab-switching or manual copy-pasting.',
+          question: 'What is Zuvu.ai.ai?',
+          answer: 'Zuvu.ai.ai is a collaborative AI workspace that brings together multiple AI models and human teammates in one chat. It offers a smart routing engine, document-aware chat, chat rules (system prompts that persist through the whole chat), custom routing rules to different models, and integration with other productivity tools. The goal is to give users reliable answers and workflows without constant tab-switching or manual copy-pasting.',
         },
         {
           question: 'How does the Smart Router work?',
-          answer: 'The Smart Router uses category-aware routing: when you ask a question, Zuvu assigns it to a category (such as research, coding, legal, analytics, etc.) and selects the model that tends to perform best for that category. For example, a research question might be routed to Perplexity Sonar, while a coding question might use Claude Sonnet 4.5. This removes guess-work and ensures that each query goes to the best model available.',
+          answer: 'The Smart Router uses category-aware routing: when you ask a question, Zuvu.ai.ai assigns it to a category (such as research, coding, legal, analytics, etc.) and selects the model that tends to perform best for that category. For example, a research question might be routed to Perplexity Sonar, while a coding question might use Claude Sonnet 4.5. This removes guess-work and ensures that each query goes to the best model available.',
         },
         {
           question: 'Which AI models can I use?',
-          answer: 'Zuvu supports many popular models including: OpenAI (GPT-5.1, GPT-5 Chat, image-1), Anthropic (Claude Sonnet 4.5, Claude Opus), Google (Gemini 3 Pro, Imagen nano banana), Perplexity (Sonar Pro), xAI (Grok 4.1, Grok Vision), and others like Mistral, Qwen, Meta Llama models. You can also invite multiple models into the same chat to compare their answers.',
+          answer: 'Zuvu.ai supports many popular models including: OpenAI (GPT-5.1, GPT-5 Chat, image-1), Anthropic (Claude Sonnet 4.5, Claude Opus), Google (Gemini 3 Pro, Imagen nano banana), Perplexity (Sonar Pro), xAI (Grok 4.1, Grok Vision), and others like Mistral, Qwen, Meta Llama models. You can also invite multiple models into the same chat to compare their answers.',
         },
         {
           question: 'Do I need to know which model to use?',
-          answer: 'No. If you use the Smart Router, Zuvu decides the best model based on the task. You can, however, mention a specific model with @ModelName to direct a question to that model if you want to see how it performs. You can also add multiple models to the chat and have them critique or build on each other\'s responses.',
+          answer: 'No. If you use the Smart Router, Zuvu.ai decides the best model based on the task. You can, however, mention a specific model with @ModelName to direct a question to that model if you want to see how it performs. You can also add multiple models to the chat and have them critique or build on each other\'s responses.',
         },
       ],
     },
@@ -34,12 +34,12 @@ export default function FAQ() {
           answer: 'Go to the Documents tab or click the Docs icon inside a chat. You can upload PDFs, CSVs or other files using the paperclip icon. Once uploaded, use the # symbol to reference a file and ask questions. For example, "#AnnualReport.pdf summarize this" prompts the AI to read the file and summarise it.',
         },
         {
-          question: 'Can Zuvu search the web for live information?',
-          answer: 'Yes. In a chat, clicking the Web button activates live web search. When web search is enabled, questions such as "Find the latest news about Zuvu" are answered using current internet sources.',
+          question: 'Can Zuvu.ai search the web for live information?',
+          answer: 'Yes. In a chat, clicking the Web button activates live web search. When web search is enabled, questions such as "Find the latest news about Zuvu.ai" are answered using current internet sources.',
         },
         {
           question: 'How do I generate images?',
-          answer: 'Click the Create Image button at the bottom of the chat window. The button will turn Active. Then type a description of what you want and send the message. Zuvu will route your request to an appropriate image-generation model and return a picture. After the image appears, you can press the edit button to refine the output.',
+          answer: 'Click the Create Image button at the bottom of the chat window. The button will turn Active. Then type a description of what you want and send the message. Zuvu.ai will route your request to an appropriate image-generation model and return a picture. After the image appears, you can press the edit button to refine the output.',
         },
       ],
     },
@@ -52,7 +52,7 @@ export default function FAQ() {
         },
         {
           question: 'What are Routers?',
-          answer: 'Besides the Smart Router, Zuvu allows you to create your own custom routers. A router is a set of routing rules that specify which model should answer certain types of prompts. You can name your router, create rules manually by adding condition-model pairs, generate rules with AI, and test the router. This lets advanced users fine-tune performance or control costs by assigning the right model for specific tasks.',
+          answer: 'Besides the Smart Router, Zuvu.ai allows you to create your own custom routers. A router is a set of routing rules that specify which model should answer certain types of prompts. You can name your router, create rules manually by adding condition-model pairs, generate rules with AI, and test the router. This lets advanced users fine-tune performance or control costs by assigning the right model for specific tasks.',
         },
       ],
     },
@@ -60,16 +60,16 @@ export default function FAQ() {
       category: 'Pricing & Support',
       faqs: [
         {
-          question: 'How much does Zuvu cost?',
-          answer: 'Zuvu is free to try for one prompt. After that, the service currently costs US$4.99 per month. A paid subscription unlocks access to multiple models, document handling, web search, image generation, custom routers and Notion export.',
+          question: 'How much does Zuvu.ai cost?',
+          answer: 'Zuvu.ai is free to try for one prompt. After that, the service currently costs US$4.99 per month. A paid subscription unlocks access to multiple models, document handling, web search, image generation, custom routers and Notion export.',
         },
         {
-          question: 'How does Zuvu handle privacy and data security?',
-          answer: 'Zuvu emphasizes consent and data protection. Chat history and documents are stored only to provide services; analytics are opt-in and aggregated; and user identifiers are hashed. Third-party model providers may receive chat messages for processing, but Zuvu does not sell user data. The platform is working toward SOC 2 compliance and offers data residency options for enterprise customers.',
+          question: 'How does Zuvu.ai handle privacy and data security?',
+          answer: 'Zuvu.ai emphasizes consent and data protection. Chat history and documents are stored only to provide services; analytics are opt-in and aggregated; and user identifiers are hashed. Third-party model providers may receive chat messages for processing, but Zuvu.ai does not sell user data. The platform is working toward SOC 2 compliance and offers data residency options for enterprise customers.',
         },
         {
           question: 'How do I contact support or give feedback?',
-          answer: 'Reach out at contact@zuvu.ai. Zuvu welcomes feedback and runs user surveys to guide feature development.',
+          answer: 'Reach out at contact@zuvu.ai. Zuvu.ai welcomes feedback and runs user surveys to guide feature development.',
         },
       ],
     },
@@ -83,7 +83,7 @@ export default function FAQ() {
             Frequently Asked Questions
           </h2>
           <p className="text-xl text-gray-600">
-            Everything you need to know about Zuvu
+            Everything you need to know about Zuvu.ai
           </p>
         </div>
 

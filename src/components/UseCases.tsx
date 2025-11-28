@@ -22,7 +22,7 @@ export default function UseCases() {
             Built for Real Work
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Whether you're creating, learning, or researching, Zuvu adapts to how you work.
+            Whether you're creating, learning, or researching, Zuvu.ai adapts to how you work.
           </p>
         </div>
 
